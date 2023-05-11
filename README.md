@@ -13,6 +13,6 @@ See different options below to work with different projects
 - BUILD_BLINK_PIO_PRJ (Official example)
 - BUILD_GPIO_TEST_PRJ
 - BUILD_GPIO_COMBINED_PRJ
-- BUILD_SERVO_PRJ
-- BUILD_USB_TEST
+- BUILD_SERVO_PRJ (3rd party project)
+- BUILD_USB_TEST (Official example)
 - BUILD_UART_HELLO_PRJ (Official example)
