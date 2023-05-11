@@ -15,3 +15,4 @@ See different options below to work with different projects
 - BUILD_GPIO_COMBINED_PRJ
 - BUILD_SERVO_PRJ
 - BUILD_USB_TEST
+- BUILD_UART_HELLO_PRJ (Official example)
