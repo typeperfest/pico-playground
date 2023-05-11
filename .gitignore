@@ -1,2 +1,5 @@
 build/*
 .vscode
+
+# mac's service file
+DS_Store
