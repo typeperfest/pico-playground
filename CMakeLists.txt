@@ -32,3 +32,7 @@ endif()
 if (BUILD_USB_TEST)
     add_subdirectory(src/Usb_transfer_test)
 endif()
+
+if (BUILD_UART_HELLO_PRJ)
+    add_subdirectory(src/Uart_hello)
+endif()
