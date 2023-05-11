@@ -29,6 +29,10 @@ if (BUILD_SERVO_PRJ)
     add_subdirectory(src/Servo)
 endif()
 
-if (BUILD_USB_TEST)
+if (BUILD_USB_TEST_PRJ)
     add_subdirectory(src/Usb_transfer_test)
+endif()
+
+if (BUILD_UART_HELLO_PRJ)
+    add_subdirectory(src/Uart_hello)
 endif()
